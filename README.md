@@ -73,7 +73,7 @@ A two-player Tic Tac Toe game built using Qt.
 
 ---
 
-## 💻 Technologies Used
+## Technologies Used
 
 - C++
 - Qt Framework (Qt Widgets)
@@ -82,9 +82,11 @@ A two-player Tic Tac Toe game built using Qt.
 
 ---
 
-## ▶️ How to Run the Projects
+## How to Run the Projects
 
 1. Clone the repository:
    ```bash
    git clone https://github.com/naziyamondal/CODSOFT.git
+2. Open any project folder in Qt Creator.
 
+3. Build and Run the project.
